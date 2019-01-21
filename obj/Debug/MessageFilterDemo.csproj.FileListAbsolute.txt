@@ -1,0 +1,10 @@
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\bin\Debug\MessageFilterDemo.exe.config
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\bin\Debug\MessageFilterDemo.exe
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\bin\Debug\MessageFilterDemo.pdb
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\obj\Debug\MessageFilterDemo.csprojAssemblyReference.cache
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\obj\Debug\MessageFilterDemo.csproj.GenerateResource.cache
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\obj\Debug\MessageFilterDemo.csproj.CoreCompileInputs.cache
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\obj\Debug\MessageFilterDemo.exe
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\obj\Debug\MessageFilterDemo.pdb
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\obj\Debug\testApp.Demonstrations.MessageFilter.AboutDialog.resources
+C:\Users\auysa\Desktop\Müşteriler\aliuysal.net\Makaleler\MessageFilterDemo\obj\Debug\testApp.Demonstrations.MessageFilter.MainForm.resources
